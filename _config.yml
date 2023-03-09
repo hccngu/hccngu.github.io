@@ -65,6 +65,7 @@ footer-links-active:
   youtube: false
   spotify: false
   telephone: false
+  google-scholar: https://scholar.google.com/citations?user=kGlQ56YAAAAJ&hl=zh-CN
 
 # Select which share links to show in posts
 share-links-active:

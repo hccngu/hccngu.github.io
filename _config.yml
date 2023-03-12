@@ -54,7 +54,7 @@ footer-links-active:
   facebook: false
   email: true
   twitter: false
-  google-plus: false
+  google-plus: true
   github: true
   reddit: false
   linkedin: false
@@ -65,7 +65,7 @@ footer-links-active:
   youtube: false
   spotify: false
   telephone: false
-  google-scholar: https://scholar.google.com/citations?user=kGlQ56YAAAAJ&hl=zh-CN
+  google-scholar: kGlQ56YAAAAJ&hl=zh-CN
 
 # Select which share links to show in posts
 share-links-active:
@@ -83,7 +83,7 @@ url-pretty: "hccngu.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 disqus: "hccngu-github-io"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: ""
+google_analytics: "G-VDSYJWMWJB"
 
 # Google Tag Manager ID
 #gtm: ""

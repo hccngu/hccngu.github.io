@@ -24,7 +24,7 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=zh-CN&us
 <!--   [Code](https://github.com/desh2608/gss){: .btn}  -->
   
 - **Spanproto: A two-stage span-based prototypical network for few-shot named entity recognition**  
-  Jianing Wang*, **Chengcheng Han\***, Chengyu Wang, Chuanqi Tan, Minghui Qiu, Songfang Huang, Jun Huang and Ming Gao
+  Jianing Wang\*, **Chengcheng Han\***, Chengyu Wang, Chuanqi Tan, Minghui Qiu, Songfang Huang, Jun Huang and Ming Gao
   *EMNLP, 2022*  
   [Paper](https://arxiv.org/pdf/2210.09049){: .btn}
   [Code](https://github.com/alibaba/EasyNLP){: .btn} 

@@ -10,6 +10,11 @@ Here is a list of my talks and presentations:
   *Speech Xiaobing Foundation Model Group*  
   March 9, 2023
 
+- **Chain-of-Thought**
+  [Slides](/static/pdf/CoT-3-16.pdf){: .btn}  
+  *Speech X101 NLP Group*  
+  March 16, 2023
+
 <!-- - **GBO presentation**
   [Slides](/static/ppt/gbo_presentation.pdf){: .btn}  
   *Malone 228* (May 04, 2022)

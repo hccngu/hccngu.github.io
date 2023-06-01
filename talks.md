@@ -5,6 +5,11 @@ title: Talks
 
 Here is a list of my talks and presentations:
 
+- **Meta-SN**
+  [Slides](/static/pdf/Meta-SN.pdf){: .btn}  
+  *DASFAA 2023*  
+  April 20, 2023
+
 - **Chain-of-Thought**
   [Slides](/static/pdf/CoT-3-9.pdf){: .btn}  
   *Speech Xiaobing Foundation Model Group*  
@@ -14,6 +19,11 @@ Here is a list of my talks and presentations:
   [Slides](/static/pdf/CoT-3-16.pdf){: .btn}  
   *Speech X101 NLP Group*  
   March 16, 2023
+
+- **DataIsPower**
+  [Slides](static/ppt/ppt_dataispower.pptx){: .btn}  
+  *Final round presentation*
+  February 10, 2023
 
 <!-- - **GBO presentation**
   [Slides](/static/ppt/gbo_presentation.pdf){: .btn}  

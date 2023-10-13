@@ -8,6 +8,12 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=zh-CN&us
 
 **2023**
 
+- **DialCoT Meets PPO: Decomposing and Exploring Reasoning Paths in Smaller Language Models**  
+  **Chengcheng Han**, Xiaowei Du, Che Zhang, Yixin Lian, Xiang Li, Ming Gao and Baoyuan Wang.
+  *EMNLP, 2023*  
+  [Paper](https://arxiv.org/pdf/2310.05074.pdf){: .btn}
+  [Code](https://github.com/hccngu/DialCoT){: .btn} 
+
 - **When Gradient Descent Meets Derivative-Free Optimization: A Match Made in Black-Box Scenario**  
   **Chengcheng Han**, Liqing Cui, Renyu Zhu, Jianing Wang, Nuo Chen, Qiushi Sun, Xiang Li and Ming Gao.
   *The findings of ACL, 2023*  

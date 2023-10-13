@@ -26,7 +26,7 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=zh-CN&us
   [Paper](https://arxiv.org/pdf/2302.03507.pdf){: .btn}
   [Code](https://github.com/hccngu/Meta-SN){: .btn} 
 
-  - **Meta-Learning Triplet Network with Adaptive Margins for Few-Shot Named Entity Recognition**  
+- **Meta-Learning Triplet Network with Adaptive Margins for Few-Shot Named Entity Recognition**  
   **Chengcheng Han**, Renyu Zhu, Jun Kuang, Fengjiao Chen, Xiang Li, Ming Gao, Xuezhi Cao and Wei Wu.
   *Preprint*  
   [Paper](https://arxiv.org/pdf/2302.07739.pdf){: .btn}

@@ -6,6 +6,26 @@ title: Publications
 You can also browse my <a href="https://scholar.google.com/citations?hl=zh-CN&user=kGlQ56YAAAAJ" target="_blank">Google Scholar profile</a>.
 <br />
 
+**2024**
+
+- **OS-Copilot: Towards Generalist Computer Agents with Self-Improvement**  
+  Zhiyong Wu, **Chengcheng Han**, Zichen Ding, Zhenmin Weng, Zhoumianze Liu, Shunyu Yao, Tao Yu, Lingpeng Kong.
+  *arXiv preprint arXiv:2402.07456, 2024*  
+  [Paper](https://arxiv.org/pdf/2402.07456.pdf){: .btn}
+  [Code](https://github.com/OS-Copilot/OS-Copilot){: .btn}
+
+- **A Survey of Neural Code Intelligence: Paradigms, Advances, and Beyond**  
+  Qiushi Sun, Zhirui Chen, Fangzhi Xu, Kanzhi Cheng, Chang Ma, Zhangyue Yin, Jianing Wang, **Chengcheng Han**, Renyu Zhu, Shuai Yuan, and others.
+  *arXiv preprint arXiv:2403.14734, 2024*  
+  [Paper](https://arxiv.org/pdf/2403.14734.pdf){: .btn}
+  [Code](https://github.com/QiushiSun/NCISurvey){: .btn}
+
+- **Learning to Check: Unleashing Potentials for Self-Correction in Large Language Models**  
+  Che Zhang, Zhenyang Xiao, **Chengcheng Han**, Yixin Lian, Yuejian Fang.
+  *arXiv preprint arXiv:2402.13035, 2024*  
+  [Paper](https://arxiv.org/pdf/2402.13035.pdf){: .btn}
+  [Code](https://github.com/bammt/Learn-to-check){: .btn}
+
 **2023**
 
 - **DialCoT Meets PPO: Decomposing and Exploring Reasoning Paths in Smaller Language Models**  
@@ -25,6 +45,12 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=zh-CN&us
   *DASFAA, 2023*  
   [Paper](https://arxiv.org/pdf/2302.03507.pdf){: .btn}
   [Code](https://github.com/hccngu/Meta-SN){: .btn} 
+
+- **Make Prompt-Based Black-Box Tuning Colorful: Boosting Model Generalization from Three Orthogonal Perspectives**  
+  **Qiushi Sun**, Chengcheng Han, Nuo Chen, Renyu Zhu, Jingyang Gong, Xiang Li, Ming Gao.
+  *arXiv preprint arXiv:2305.08088, 2023*  
+  [Paper](https://arxiv.org/pdf/2305.08088.pdf){: .btn}
+  [Code](https://github.com/QiushiSun/BBT-RGB){: .btn}
 
 - **Meta-Learning Triplet Network with Adaptive Margins for Few-Shot Named Entity Recognition**  
   **Chengcheng Han**, Renyu Zhu, Jun Kuang, Fengjiao Chen, Xiang Li, Ming Gao, Xuezhi Cao and Wei Wu.

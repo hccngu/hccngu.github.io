@@ -9,8 +9,6 @@ body {
   color: #404040;
   position: relative;
   background: #FFF;
-  max-width: 120000px; /* 增加最大宽度 */
-  margin: 0 auto; /* 居中对齐 */
 }
 p {
   line-height: 1.5;
@@ -51,8 +49,6 @@ hr.small {
 
 .main-content {
   padding-top: 80px;
-  max-width: 120000px; /* 增加最大宽度 */
-  margin: 0 auto; /* 居中对齐 */
 }
 @media only screen and (min-width: 768px) {
   .main-content {

@@ -8,6 +8,11 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=zh-CN&us
 
 **2024**
 
+- **Length Desensitization in Directed Preference Optimization**  
+  Wei Liu, Yang Bai, **Chengcheng Han**, Rongxiang Weng, Jun Xu, Xuezhi Cao, Jingang Wang, Xunliang Cai.
+  *arXiv preprint arXiv:2409.06411, 2024*  
+  [Paper](https://arxiv.org/pdf/2409.06411.pdf){: .btn}
+
 - **OS-Copilot: Towards Generalist Computer Agents with Self-Improvement**  
   Zhiyong Wu, **Chengcheng Han**, Zichen Ding, Zhenmin Weng, Zhoumianze Liu, Shunyu Yao, Tao Yu, Lingpeng Kong.
   *arXiv preprint arXiv:2402.07456, 2024*  

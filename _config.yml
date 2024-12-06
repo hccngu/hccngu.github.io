@@ -43,7 +43,7 @@ avatar: "/static/img/hcc.jpeg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Chengcheng Han
-  email: "52215903007@stu.ecnu.edu.cn"
+  email: "hccngu@163.com"
   github: hccngu    # eg. daattali
   linkedin: 
   twitter: 
@@ -93,7 +93,7 @@ google_analytics: "G-VDSYJWMWJB"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 500
+excerpt_length: 50
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
